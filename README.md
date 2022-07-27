@@ -8,5 +8,4 @@
 - https://openweathermap.org/ api free tier 사용해서 구현 (다른 api 사용해도 됨)
 - 결과물: repo 주소, 마켓주소, apk
 
-<img src = "https://user-images.githubusercontent.com/65940401/181380060-4291ddc6-a0bd-4357-a02a-aaf5d7be5a36.png" width="30%" height="30%"> 
-<img src = "https://user-images.githubusercontent.com/65940401/181380036-216d4814-a6fe-4ae8-8bfb-8207f6f95075.png" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/65940401/181380060-4291ddc6-a0bd-4357-a02a-aaf5d7be5a36.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/65940401/181380036-216d4814-a6fe-4ae8-8bfb-8207f6f95075.png" width="30%" height="30%">
